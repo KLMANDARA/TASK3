@@ -1,0 +1,4 @@
+npx create-react-app weather-forecast
+cd weather-forecast
+
+npm install axios
